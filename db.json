@@ -1,0 +1,7 @@
+{
+    "name" : {"french" : "Dracaufeu"},
+    "type" : ["feu","vol"],
+    "base" : {"HP":300,"Attack":180,"Defense":125,"Sp. Attack": 200,"Sp. Defense":100,"Speed":50},
+    "profile" : {"height" : "100","weight":"250"},
+    "hires" : "http://sitedemerde.com"
+}
